@@ -1,6 +1,3 @@
 # NLP_Group-2_Still-Processing
-This is the NLP exam project GitHub repository for Group 2: Still Processing...
-
-Test
-
-Test
+This is the NLP exam project GitHub repository for Group 2: Still Processing... 
+In this repository, you can find our code, paper and powerpoint presentation prepared for this class.
